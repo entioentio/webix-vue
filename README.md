@@ -49,6 +49,9 @@ new Vue({
 });
 ~~~
 
+You can use one of those simple components:
+webix-text, webix-search, webix-slider, webix-checkbox, webix-colorpicker, webix-datepicker, webix-counter, webix-richtext, webix-textarea, webix-tabbar, webix-segmented, webix-combo, webix-richselect, webix-multicombo (pro version), webix-select, webix-button, webix-radio.
+
 ### Data binding
 
 It's possible to bind data of a Webix widget and a Vue template, using a common Vue technique: the *v-bind* directive.
